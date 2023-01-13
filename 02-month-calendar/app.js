@@ -36,4 +36,4 @@ for (let i = 1; i <= lastDay; i++) {
   }
 }
 
-daysEl.innerHTML = days;
+daysEl.innerHTML = days ;
